@@ -63,7 +63,7 @@ print(cyan+"""
                    ☆☆☆ SMS BOMBER ☆☆☆      """)
 print(blue+"\t\tAuto Updating Tool...")
 
-os.system("cd .. && rm -rf SmS-Bomber && git clone https://github.com/DEVILNIHAD/SmS-Bomber > /dev/null 2>&1 && cd SmS-Bomber && python uptry.py")
+#os.system("cd .. && rm -rf SmS-Bomber && git clone https://github.com/DEVILNIHAD/SmS-Bomber > /dev/null 2>&1 && cd SmS-Bomber && python uptry.py")
 
 os.system("clear")
 rint(green+"""
